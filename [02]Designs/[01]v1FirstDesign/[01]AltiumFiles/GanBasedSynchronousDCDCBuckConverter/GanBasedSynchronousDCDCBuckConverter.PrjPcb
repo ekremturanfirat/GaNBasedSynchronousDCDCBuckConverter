@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=CKSAXYAO
 
 [Document3]
+DocumentPath=[03]GateDriver.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DMYPJBMF
+
+[Document4]
 DocumentPath=[05]BuckConverter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TWGRUVJO
 
-[Document4]
+[Document5]
 DocumentPath=BuckConverterDesign.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QBHUVGPB
 
-[Document5]
+[Document6]
 DocumentPath=[06]TemperatureSense.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,22 +151,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FNUUCWAL
 
-[Document6]
-DocumentPath=[00]Connectors.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+[GeneratedDocument1]
+DocumentPath=Project Outputs for GanBasedSynchronousDCDCBuckConverter\Design Rule Check - BuckConverterDesign.html
 DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SWFFUCEC
 
 [Configuration1]
 Name=Sources
@@ -1156,7 +1160,7 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Vault Name
 ComponentLibraryIdentifier0=AGH Power Electronics Lab
-ComponentDesignItemID0=CMP-00009-2
+ComponentDesignItemID0=CMP-00009-4
 ComponentSymbolReference0=IGC019S06S1XTMA1
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
